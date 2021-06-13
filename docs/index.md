@@ -1,1 +1,11 @@
-https://github.com/paansktotk/Zulfarhan.wiki.git
+**_Hi, Selamat Datang Ke Laman Kami. Mari Bermain Saham Digital Di Pussy888_**
+
+Sila Hubungi Kami Untuk Mendaftar dengan Kami. >>>[Hubungi Kami, Tekan Sini!](t.me.com/RCrew6117)<<<
+
+
+Untuk Bermain Tekan Sini >>>
+[Pussy888 Download](http://dr1.pussy888.com/)
+
+
+
+Untuk Menjadi Agent Sila Hubungi Kami. Ketahui Kelebiha Menjadi Seorang Agent. >>>[Hubungi Kami, Tekan Sini!](t.me.com/RCrew6117)<<<
