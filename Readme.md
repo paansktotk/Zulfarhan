@@ -14,7 +14,6 @@ Untuk Menjadi Agent Sila Hubungi Kami. Ketahui Kelebihan Menjadi Seorang Agent. 
 
 
 
-$ npm install --global smee-client
 
 
 
