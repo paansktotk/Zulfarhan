@@ -12,3 +12,26 @@ Untuk Bermain Tekan Sini >>>
 
 Untuk Menjadi Agent Sila Hubungi Kami. Ketahui Kelebihan Menjadi Seorang Agent. >>>[Hubungi Kami, Tekan Sini!](t.me.com/RCrew6117)<<<
 
+
+
+$ npm install --global smee-client
+
+$ smee -u https://smee.io/yWs1gSGUfhDTpZc
+
+$ smee --help
+
+
+$ npm install --save smee-client
+
+const SmeeClient = require('smee-client')
+
+const smee = new SmeeClient({
+  source: 'https://smee.io/yWs1gSGUfhDTpZc',
+  target: 'http://localhost:3000/events',
+  logger: console
+})
+
+const events = smee.start()
+
+// Stop forwarding events
+events.close()
