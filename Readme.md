@@ -19,7 +19,6 @@ $ npm install --global smee-client
 
 
 
-$ smee -u https://smee.io/yWs1gSGUfhDTpZc
 
 
 
