@@ -1,8 +1,7 @@
-<Masuk 10 cuci 500><html>
+<><html>
 <body>
 
 <h1>Cuci-CuciApps</h1>
-
 <p>Pussy888.</p>
 
 <h1 style="background-color:LightGray;"></h1>
