@@ -1,4 +1,4 @@
-<!DOCTYPE html><html>
+<Masuk 10 cuci 500><html>
 <body>
 
 <h1>Cuci-CuciApps</h1>
