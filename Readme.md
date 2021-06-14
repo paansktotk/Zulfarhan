@@ -16,22 +16,10 @@ Untuk Menjadi Agent Sila Hubungi Kami. Ketahui Kelebihan Menjadi Seorang Agent. 
 
 $ npm install --global smee-client
 
+
 $ smee -u https://smee.io/yWs1gSGUfhDTpZc
+
+
 
 $ smee --help
 
-
-$ npm install --save smee-client
-
-const SmeeClient = require('smee-client')
-
-const smee = new SmeeClient({
-  source: 'https://smee.io/yWs1gSGUfhDTpZc',
-  target: 'http://localhost:3000/events',
-  logger: console
-})
-
-const events = smee.start()
-
-// Stop forwarding events
-events.close()
